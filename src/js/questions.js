@@ -16,12 +16,12 @@ let questions = [
     {
     numb: 2,
     question: "The longest bone in the human body is",
-    answer: "humerus",
+    answer: "femur",
     options: [
       "stapes",
       "humerus",
       "ulna",
-      "humerus"
+      "femur"
     ]
   },
     {
